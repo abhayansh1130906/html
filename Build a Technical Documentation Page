@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JAVA.</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+   <nav id='navbar'>
+      <header>hellow world</header>
+      <a class='nav-link' herf='Introduction' >Introduction</a>
+      <a class='nav-link' herf='Installation' >Installation</a>
+      <a class='nav-link' herf='How_to_install' >How to install?</a>
+      <a class='nav-link' herf='how_to_write_code' >how to write code?</a>
+      <a class='nav-link' herf='THANKYOU' >THANKYOU</a>
+   </nav>
+    <main id='main-doc'>
+      <section class='main-section'id='Introduction'>
+         <header>Introduction</header>
+         <p></p>
+         <p></p>
+         <li></li>
+         <code></code>
+      <section class='main-section' id='Installation'>
+         <header>Installation</header>
+         <p></p>
+         <p></p>
+         <li></li>
+         <code></code>
+      </section>
+      <section class='main-section' id='How_to_install?'>
+         <header>How to install?</header>
+         <p></p>
+         <p></p>
+         <li></li>
+         <code></code>
+      </section>
+      <section class='main-section'id='how_to_write_code?'>
+         <header>how to write code?</header>
+         <p></p>
+         <p></p>
+         <li></li>
+         <code></code>
+      </section>
+      <section class='main-section' id='THANKYOU'>
+         <header>THANKYOU</header>
+         <p></p>
+         <p></p>
+         <li></li>
+         <code></code>
+      </section>
+    </main>
+</body>
+</html>
